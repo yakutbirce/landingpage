@@ -16,9 +16,17 @@ This project showcases a landing page website created using CSS and HTML. Our go
 
 - **CSS:** CSS is used for visual styling and layout adjustments.
 
+---
+
 ## `Deploy`
 
 - Visit the Web Page: Open the [https://landingg-pagee.netlify.app/](https://landingg-pagee.netlify.app/) website in your browser.
+
+---
+
+## `Responsive Design Preview`
+
+![Alt text](responsive.png)
 
 ---
 
